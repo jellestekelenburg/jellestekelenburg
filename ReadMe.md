@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi, I'm Jelle — a developer from the Netherlands focused on building fast, modern, and user-friendly web experiences.
 
 
@@ -14,5 +14,3 @@ Hi, I'm Jelle — a developer from the Netherlands focused on building fast, mod
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jellestekelenburg&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
