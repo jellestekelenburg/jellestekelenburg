@@ -3,6 +3,7 @@ Hi, I'm Jelle — a developer from the Netherlands focused on building fast, mod
 
 
 ## Socials:
+[Portoflio](https://jellestek.com) 
 [Linkedin](https://linkedin.com/in/jelle-stekelenburg/) 
 [Leetcode](https://leetcode.com/u/jellestek/) 
 
